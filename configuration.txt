@@ -1,0 +1,4 @@
+npm init // To inititalize the app
+npm install -D parcel // To install parcel
+npx parcel index.html // to build the app
+npx parcel build index.html // to create production build

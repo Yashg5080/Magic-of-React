@@ -1,0 +1,8 @@
+1. Difference between tilde ( ~ ) and caret ( ^ ) in package.json ?
+   https://www.geeksforgeeks.org/difference-between-tilde-and-caret-in-package-json/
+
+2. Difference between package.json and package-lock.json?
+   https://www.atatus.com/blog/package-json-vs-package-lock-json/
+
+3. What is integrity in package-lock.json?
+   https://stackoverflow.com/questions/47638381/why-did-package-lock-json-change-the-integrity-hash-from-sha1-to-sha512
