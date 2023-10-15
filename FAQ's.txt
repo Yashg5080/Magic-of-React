@@ -6,3 +6,8 @@
 
 3. What is integrity in package-lock.json?
    https://stackoverflow.com/questions/47638381/why-did-package-lock-json-change-the-integrity-hash-from-sha1-to-sha512
+
+4. What is component Composition?
+   https://www.codementor.io/@dinerismail/the-power-of-component-composition-in-react-21goassg4m#:~:text=In%20simple%20terms%2C%20it%20just,that%20are%20delightful%20to%20use.
+
+   
